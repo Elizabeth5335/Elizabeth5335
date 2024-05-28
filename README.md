@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Yelyzaveta</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 👯 I’m the most proud of [Medicine Delivery](https://github.com/Elizabeth5335/medicine-delivery)
+- 👯 I’m the most proud of my [Medicine Delivery project](https://github.com/Elizabeth5335/medicine-delivery)
 
-- 👨‍💻 All of my projects are available at [http://yelyzavetalazarieva.space/](http://yelyzavetalazarieva.space/)
+- 👨‍💻 All of my projects are available at [yelyzavetalazarieva.space](https://yelyzavetalazarieva.space/)
 
 - 📫 How to reach me **lazareva15elizaveta@gmail.com**
 
