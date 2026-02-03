@@ -1,20 +1,58 @@
-<h1 align="center">Hi, I'm Yelyzaveta</h1>
-<h3 align="center">A frontend developer</h3>
+<h1 align="center">Hi, I'm Yelyzaveta 👋</h1>
+<h3 align="center">Data Analyst | Turning Data into Actionable Insights</h3>
 
-- 👯 I’m the most proud of my [Medicine Delivery project](https://github.com/Elizabeth5335/medicine-delivery)
+### 👩‍💻 About Me
 
-- 🌱I am currently learning and practising: **Node.js**
+I'm a data analyst passionate about uncovering insights from complex datasets and creating data-driven solutions. I specialize in data cleaning, exploratory analysis, and building interactive dashboards that help stakeholders make informed decisions.
 
-- 💙I am totally in love with **React.js**
+---
 
-- 👨‍💻 All of my projects are available at [yelyzavetalazarieva.space](https://yelyzavetalazarieva.space/)
+### 🛠️ Technical Skills
 
-- 📫 How to reach me **lazareva15elizaveta@gmail.com**
+#### **Programming & Analysis**
+NumPy • Pandas • Matplotlib • Seaborn • Plotly • SciPy
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+#### **Data Visualization**
+Tableau • Matplotlib • Seaborn • Plotly • Excel/Google Sheets
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Elizabeth5335&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+#### **Databases & Query Languages**
+SQL • Query Optimization
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elizabeth5335&show_icons=true&locale=en&layout=compact&theme=merko" alt="elizabeth5335" /></p>
+#### **Spreadsheets**
+Google Sheets • Microsoft Excel • Pivot Tables • VLOOKUP • Conditional Formatting
 
+#### **Version Control & Collaboration**
+
+Git • GitHub • Jupyter Notebooks
+
+---
+
+
+### 📫 Let's Connect!
+
+Feel free to reach out if you'd like to collaborate on data projects, discuss analytics opportunities, or just chat about data!
+
+<p align="center">
+  <a href="mailto:lazareva15elizaveta@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/yelyzaveta-cherkasova-876047235">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Elizabeth5335">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://public.tableau.com/app/profile/yelyzaveta.cherkasova">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Elizabeth5335&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <i>💡 "In God we trust, all others must bring data." - W. Edwards Deming</i>
+</p>
